@@ -1,0 +1,6 @@
+#summary Explains how this game was done
+
+= Introduction =
+
+ * Download and Install Blender 2.49
+ * Grab the latest "code" from trunk into SVN
